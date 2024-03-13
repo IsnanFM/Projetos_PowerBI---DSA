@@ -4,11 +4,11 @@ Bem-vindo ao meu repositório pessoal no GitHub, onde compartilho meus projetos 
 
 ## 🛠️ O que você vai encontrar aqui?
 
-- 📊 **Análises de Dados Incríveis**: Explore uma variedade de análises detalhadas, dashboards interativos e relatórios dinâmicos, tudo construído com o Power BI.
-- 📈 **Visualizações Poderosas**: Descubra visualizações avançadas e personalizadas que ilustram seus dados de maneira envolvente e impactante.
-- 💡 **Soluções de BI Inovadoras**: Conheça soluções inteligentes para problemas de negócios, desde previsões de vendas até análises de mercado, utilizando as capacidades do Power BI.
-- 🧰 **Modelagem de Dados Robusta**: Aprenda técnicas de modelagem de dados eficientes para garantir a precisão e a confiabilidade de suas análises.
-- 📚 **Recursos Educacionais**: Explore tutoriais passo a passo, dicas práticas e recursos de aprendizado para aprimorar suas habilidades no Power BI.
+- 📊 **Expertise em Análise de Dados**: Demonstração de habilidades avançadas na análise e interpretação de conjuntos de dados complexos.
+- 📈 **Domínio em Visualização de Dados**: Exibição de talento na criação de visualizações dinâmicas e envolventes para apresentar informações de forma eficaz.
+- 💡 **Capacidade de Resolução de Problemas**: Exemplos práticos de resolução de desafios analíticos, transformando dados em insights valiosos.
+- 🧰 **Proficiência em Modelagem de Dados**: Experiência na criação de modelos de dados sólidos e bem estruturados para garantir a precisão das análises.
+- 📚 **Habilidades de Aprendizado Contínuo**: Demonstração de interesse em aprimorar constantemente as habilidades e conhecimentos no Power BI.
 
 ## Contribuições e Feedbacks
 
