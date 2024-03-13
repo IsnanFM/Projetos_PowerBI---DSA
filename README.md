@@ -16,7 +16,7 @@ Sinta-se à vontade para contribuir com seus próprios projetos ou dar feedback 
 
 ## Licença para Inovar
 
-Este repositório é licenciado sob a **[MIT License](https://opensource.org/licenses/MIT)**, o que significa que você pode utilizar, modificar e distribuir o conteúdo aqui presente conforme desejar.
+Este repositório é livre e público, o que significa que você pode utilizar, modificar e distribuir o conteúdo aqui presente conforme desejar.
 
 ## Entre em Contato
 
