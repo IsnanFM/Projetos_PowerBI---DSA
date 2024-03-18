@@ -1,0 +1,15 @@
+*Identificamos alguns problemas na base de dados importada:
+
+	*Na coluna ID_Cliente há linhas duplicadas, o que é um erro, pois cada cliente tem um ID único.
+
+	*Na tabela, há valores ausentes em duas colunas, idade e peso, teremos que tratá-los antes de fazer qualquer análise.
+
+	*Também conseguimos perceber que há outliers, também temos que analisar e decidir o que fazer com eles.
+
+**Corrigindo problemas:
+
+	**Facilmente podemos corrigir o primeiro problema pois o PowerBI já nos oferece uma opção para isso. Clicando com o 	  botão direito na coluna ID_Cliente, conseguimos notar uma função "Remover Duplicadas", e com um click todos os ID's duplicadas são excluídos.
+
+	**Nesse ponto, não queremos excluir linhas caso haja "null"(valores ausentes) nos campos. Portanto, temos duas opções, ou substituimos pela média ou pela mediana. Porém, para fazermos isso para a média, precisariamos fazer um teste estatístico pra verificar a distribuição dos dados. Entretanto, só usaremos PowerBI nesse caso, que não permite tal teste, então vamos substituir pela mediana da idade e peso, que no caso vale 40 e 70, respectivamente, verificado no próprio PowerBI.
+
+	**No gráfico de dispersão abaixo, notamos que a coluna de idade há 2 outliers, muito esstranhos por sinal. Duas alturas acima de 260, uma de 277 e outra de 278, em pesquisas não há registros de pessoas que mediram essa altura. Portanto, teremos que corrigir esse erro, que pode ter sido causado por diversos fatores, incluindo erro de digitação.
