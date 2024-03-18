@@ -18,7 +18,8 @@
 | ![Outliers](./Gráfico_dispersão.png) | ![Apos_correcao](./Altura_correção.png) |
 |:---:|:---:|
 | *Outliers* | *Após correção* |
-
+## Visão geral após alterações:
+![vg](./Apos_alteracao.png)
 
 ## Contribuição
 
