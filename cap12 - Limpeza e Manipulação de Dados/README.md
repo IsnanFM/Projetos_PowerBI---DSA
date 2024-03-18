@@ -9,9 +9,9 @@
 ![vg](./Visão_Geral_Tabela.png)
 ## Corrigindo problemas:
 
-- ✨ **Removendo Duplicatas:** Com apenas um clique, podemos usar o PowerBI para remover todas as IDs duplicadas da coluna `ID_Cliente`.
-- 📝 **Tratamento de Valores Ausentes:** Optaremos por substituir os valores ausentes pela mediana da idade (40 anos) e do peso (70 kg), uma solução prática e eficaz.
-- 📏 **Correção de Outliers:** Decidimos substituir os outliers na idade pela mediana da altura (172 cm), eliminando valores extremos e mantendo a consistência dos dados.
+- ✨ **Removendo Duplicatas:** Facilmente podemos corrigir o primeiro problema pois o PowerBI já nos oferece uma opção para isso. Clicando com o botão direito na coluna `ID_Cliente`, conseguimos notar uma função "Remover Duplicadas", e com um click todos os ID's duplicados são excluídos.
+- 📝 **Tratamento de Valores Ausentes:** Nesse ponto, não queremos excluir linhas caso haja "null"(valores ausentes) nos campos. Portanto, temos duas opções, ou substituimos pela média ou pela mediana. Porém, para fazermos isso para a média, precisariamos fazer um teste estatístico pra verificar a distribuição dos dados. Entretanto, só usaremos PowerBI nesse caso, que não permite tal teste, então vamos substituir pela mediana da `idade` e `peso`, que no caso vale `40 anos` e `70 kg`, respectivamente, verificado no próprio PowerBI.
+- 📏 **Correção de Outliers:** No gráfico de dispersão abaixo, notamos que a coluna de idade há 2 outliers, muito esstranhos por sinal. Duas alturas acima de 260 cm, uma de `277 cm` e outra de `278 cm`, em pesquisas não há registros de pessoas que mediram essa altura. Portanto, teremos que corrigir esse erro, que pode ter sido causado por diversos fatores, incluindo erro de digitação. Para corrigir isso vamos adotar a mesma solução da questão anterior, vamos substituir pela mediana que é de `172 cm`.
 
 ## Demonstração Visual
 
